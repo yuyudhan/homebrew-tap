@@ -3,8 +3,8 @@
 # Casks/nomouse.rb by scripts/release/publish-homebrew.sh: brew install --cask
 # yuyudhan/tap/nomouse. The formula (Formula/nomouse.rb) stays for the bare command line.
 cask "nomouse" do
-  version "0.1.21"
-  sha256 "27c5e157961996b5bc8b8ee0e4a1f7c71fb435db0c8d8264739a7f07426764dd"
+  version "0.1.22"
+  sha256 "86308dd03ac41f46ef8bd5ac71af3e776ea2271043f99cdb6b225fcca9b71a4a"
 
   url "https://github.com/yuyudhan/nomouse/releases/download/v#{version}/nomouse-universal-apple-darwin.dmg"
   name "nomouse"
